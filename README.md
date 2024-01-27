@@ -30,5 +30,7 @@ Berdasarkan Classification Report algoritma KNN dianggap lebih baik dengan hasil
 - **F1-Score**: 71%
 
 ### 6. Identifikasi Variable yang Berpengaruh Terhadap Customer Churn
-Feature Importance menggunakan K-Nearest Neighbors (KNN) menunjukkan bahwa variabel yang paling berpengaruh adalah Fare. Kesimpulan: Penumpang yang membayar lebih mahal lebih berpotensi untuk selamat karena mendapatkan fasilitas yang lebih baik.
+Feature Importance menggunakan K-Nearest Neighbors (KNN) menunjukkan bahwa variabel yang paling berpengaruh adalah Fare. 
+
+Kesimpulan: Penumpang yang membayar lebih mahal lebih berpotensi untuk selamat karena mendapatkan fasilitas yang lebih baik.
 
